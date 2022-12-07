@@ -1,0 +1,23 @@
+{
+  "name": "memoize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "delay": "^5.0.0",
+    "fast-memoize": "^2.5.2",
+    "got": "^12.5.3",
+    "mem": "^9.0.2",
+    "memoize-one": "^6.0.0",
+    "memoizee": "^0.4.15",
+    "memoizerific": "^1.11.3",
+    "p-memoize": "^7.1.1"
+  }
+}
